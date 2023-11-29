@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Joint Differential Optimization and Verification for Certified Reinforcement Learning"
 collection: publications
 permalink: /publication/ICCPS23
 date: 2023-04-01
