@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "POLAR: A Polynomial Arithmetic Framework for Verifying Neural-Network Controlled Systems"
 collection: publications
 permalink: /publication/ATVA22
 date: 2022-10-21
