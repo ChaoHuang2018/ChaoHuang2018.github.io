@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-I will be an Associate Professor in the [School of Electronics and Computer Science](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science) at the [University of Southampton](https://www.southampton.ac.uk/), UK.
-I am now a Lecturer (Assistant Professor) in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the [University of Liverpool](https://www.liverpool.ac.uk/), UK. I am also an adjunct assistant professor (honorary position) in the [Department of Electrical and Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/) at [Northwestern University](https://www.northwestern.edu/), US.
+I will be an incoming Associate Professor in the [School of Electronics and Computer Science](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science) at the University of Southampton, UK from Feb 2024.
+I am now a Lecturer (Assistant Professor) in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the University of Liverpool, UK. I am also an adjunct assistant professor (honorary position) in the [Department of Electrical and Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/) at Northwestern University, US. My research interests include the formal verification and design of machine learning algorithms (in particular reinforcement learning) with respect to important properties, e.g. safety, security, robustness, etc., under uncertain environments. I am also interested in providing reliable machine-learning solutions to various applications in robotics, transportation, etc. 
 
-My research interests include design and verification of intelligent systems, of which the components involve machine learning techniques. Before joining Liverpool, I worked with Prof. Qi Zhu as a postdoc fellow, in the ECE department at Northwestern University. Prior to Northwestern, I received my B.S. and PhD in mathematics and applied mathematics and computer science from Nanjing University respectively. I also visited the Department of Computer Science at Aalborg University and was pleased to work with Prof. Kim G. Larsen.
+Before joining Liverpool, I worked with [Prof. Qi Zhu](http://zhulab.ece.northwestern.edu/) as a postdoc fellow, in the [Department of Electrical and Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/) at Northwestern University. Prior to Northwestern, I received my B.S. and Ph.D. in [Mathematics and Applied Mathematics](https://math.nju.edu.cn/en/index.html) and [Computer Science](https://cs.nju.edu.cn/main.htm) from Nanjing University, China respectively. I also visited the [Department of Computer Science](https://www.cs.aau.dk/) at Aalborg University and was pleased to work with [Prof. Kim G. Larsen](https://kgl.cs.aau.dk/).
 
 A data-driven personal website
 ======
