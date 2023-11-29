@@ -13,6 +13,12 @@ I am now a Lecturer (Assistant Professor) in the [Department of Computer Science
 
 Before joining Liverpool, I worked with [Prof. Qi Zhu](http://zhulab.ece.northwestern.edu/) as a postdoc fellow, in the [Department of Electrical and Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/) at Northwestern University. Prior to Northwestern, I received my B.S. and Ph.D. in [Mathematics and Applied Mathematics](https://math.nju.edu.cn/en/index.html) and [Computer Science](https://cs.nju.edu.cn/main.htm) from Nanjing University, China respectively. I also visited the [Department of Computer Science](https://www.cs.aau.dk/) at Aalborg University and was pleased to work with [Prof. Kim G. Larsen](https://kgl.cs.aau.dk/).
 
+
+Recent News
+======
+- I am glad to join the [School of Electronics and Computer Science](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science) at the University of Southampton, UK from Feb 2024, as an Associate Professor.
+
+
 Research Projects
 ======
 - Cross-Layer Uncertainty-Aware Reinforcement Learning for Safe Autonomous Driving, EPSRC ECR International Collaboration Grants (£203k), PI, 01.2024 -- 12.2025.
@@ -22,11 +28,6 @@ For Prospective Students
 I am looking for highly motivated students, who are interested in at least one of the following topics: formal methods, machine learning, and Cyber-Physical systems. The students are expected to have a strong background in at least one of the following areas: computer science/engineering, electrical engineering, mathematics, statistics, and physics. Students with research experience are much preferred.
 
 ECS will provide PhD scholarships for excellent candidates. In addition, there are other scholarship opportunities for home students, [students from Commonwealth countries](https://www.southampton.ac.uk/study/fees-funding/scholarships/electronics-computer-science-commonwealth), [Chinese students](https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-china-scholarship-council), and [other international students](https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships). Please do not hesitate to contact me to discuss the scholarship possibility.
-
-Recent News
-======
-- I am glad to join the [School of Electronics and Computer Science](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science) at the University of Southampton, UK from Feb 2024, as an Associate Professor.
-
 
 Contact Infor
 ------
