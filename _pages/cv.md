@@ -9,44 +9,30 @@ redirect_from:
 
 {% include base_path %}
 
-Education
-======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Associate Professor
+  * University of Southampton, UK
+  * Feb 2024 --  
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
+* Lecturer (Assistant Professor)
+  * University of Liverpool, UK
+  * June 2021 -- Jan 2023
+
+* Postdoc Fellow
+  * Northwestern University, US
+  * June 2018 -- March 2021
+
+Education
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Ph.D. in Computer Science, Nanjing University, China 2018
+* M.S. in Computer Science, Nanjing University, China 2013
+* B.S. in Math, Nanjing University, 2011
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  Please see the [Google Scholar](https://scholar.google.com/citations?user=GbY72eIAAAAJ&hl=en)
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
   
 Teaching
 ======
@@ -54,6 +40,3 @@ Teaching
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
