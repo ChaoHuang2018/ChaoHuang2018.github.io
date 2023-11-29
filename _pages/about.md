@@ -16,7 +16,7 @@ Before joining Liverpool, I worked with [Prof. Qi Zhu](http://zhulab.ece.northwe
 
 Recent News
 ======
-- I am glad to join the [School of Electronics and Computer Science](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science) at the University of Southampton, UK from Feb 2024, as an Associate Professor.
+- Oct. 2023 I am glad to join the [School of Electronics and Computer Science](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science) at the University of Southampton, UK from Feb. 2024, as an Associate Professor.
 
 
 Research Projects
