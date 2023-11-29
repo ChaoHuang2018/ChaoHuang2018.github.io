@@ -15,7 +15,7 @@ Before joining Liverpool, I worked with [Prof. Qi Zhu](http://zhulab.ece.northwe
 
 Research Projects
 ======
-- Cross-Layer Uncertainty-Aware Reinforcement Learning for Safe Autonomous Driving, EPSRC ECR International Collaboration Grants (~203k), 01.2024 -- 12.2025.
+- Cross-Layer Uncertainty-Aware Reinforcement Learning for Safe Autonomous Driving, EPSRC ECR International Collaboration Grants (£203k), PI, 01.2024 -- 12.2025.
 
 For Prospective Students
 ======
