@@ -31,8 +31,13 @@ Recent News
 Contact Infor
 ------
 Email: chao.huang2 at liverpool.ac.uk
+
 Department of Computer Science
+
 University of Liverpool
+
 Brownlow Hill
+
 Liverpool L69 3GJ
+
 United Kingdom
