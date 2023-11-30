@@ -17,7 +17,7 @@ Work experience
 
 * Lecturer (Assistant Professor)
   * University of Liverpool, UK
-  * June 2021 -- Jan 2023
+  * June 2021 -- Jan 2024
 
 * Postdoc Fellow
   * Northwestern University, US
