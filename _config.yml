@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Chao Huang / Academic Website"
+title                    : "Chao Huang"
 title_separator          : "-"
 name                     : &name "Chao Huang"
 description              : &description "personal description"
