@@ -29,16 +29,11 @@ I am looking for highly motivated students, who are interested in at least one o
 
 ECS will provide PhD scholarships for excellent candidates. In addition, there are other scholarship opportunities for home students, [students from Commonwealth countries](https://www.southampton.ac.uk/study/fees-funding/scholarships/electronics-computer-science-commonwealth), [Chinese students](https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships-china-scholarship-council), and [other international students](https://www.southampton.ac.uk/study/fees-funding/scholarships/partnerships). Please do not hesitate to contact me to discuss the scholarship possibility.
 
-Contact Infor
+Contact Info
 ------
-Email: chao.huang2 at liverpool.ac.uk
-
-Department of Computer Science
-
-University of Liverpool
-
-Brownlow Hill
-
-Liverpool L69 3GJ
-
-United Kingdom
+Email: chao.huang2 at liverpool.ac.uk <br/>
+Department of Computer Science <br/>
+University of Liverpool <br/>
+Brownlow Hill <br/>
+Liverpool L69 3GJ <br/>
+United Kingdom <br/>
