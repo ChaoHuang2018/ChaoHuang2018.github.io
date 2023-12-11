@@ -21,7 +21,7 @@ Work experience
 
 * Postdoc Fellow
   * Northwestern University, US
-  * June 2018 -- March 2021
+  * June 2018 -- May 2021
 
 Education
 ======
