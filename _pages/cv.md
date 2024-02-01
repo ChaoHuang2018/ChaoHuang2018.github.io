@@ -11,9 +11,9 @@ redirect_from:
 
 Work experience
 ======
-* Incoming Associate Professor
+* Associate Professor
   * University of Southampton, UK
-  * Feb 2024 --  
+  * Feb 2024 -- Now
 
 * Lecturer (Assistant Professor)
   * University of Liverpool, UK
