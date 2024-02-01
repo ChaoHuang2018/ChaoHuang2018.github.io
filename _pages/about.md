@@ -16,6 +16,7 @@ Prior to Southamton, I was a Lecturer (Assistant Professor) in the [Department o
 
 Recent News
 ======
+- Feb. 2024 I officially start my position as Associate Professor at Southampton.
 - Oct. 2023 I am glad to join the [School of Electronics and Computer Science](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science) at the University of Southampton, UK from Feb. 2024, as an Associate Professor.
 
 
