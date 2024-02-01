@@ -32,9 +32,5 @@ ECS will provide PhD scholarships for excellent candidates. In addition, there a
 
 Contact Info
 ------
-Email: chao.huang2 at liverpool.ac.uk <br/>
-Department of Computer Science <br/>
-University of Liverpool <br/>
-Brownlow Hill <br/>
-Liverpool L69 3GJ <br/>
-United Kingdom <br/>
+Email: chao.huang at soton.ac.uk <br/>
+B53, West Highfield Campus, University Road, SO17 1BJ <br/>
