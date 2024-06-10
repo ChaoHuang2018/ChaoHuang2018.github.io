@@ -33,4 +33,4 @@ ECS will provide PhD scholarships for excellent candidates. In addition, there a
 Contact Info
 ------
 Email: chao.huang at soton.ac.uk <br/>
-B53, West Highfield Campus, University Road, SO17 1BJ <br/>
+Room 4046, Building 53, West Highfield Campus, University Road, SO17 1BJ <br/>
