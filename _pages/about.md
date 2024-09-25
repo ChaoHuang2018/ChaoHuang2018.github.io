@@ -16,8 +16,10 @@ Prior to Southamton, I was a Lecturer (Assistant Professor) in the [Department o
 
 Recent News
 ======
+- Sep. 2024 Our paper ["Variational Delayed Policy Optimization"]([https://arxiv.org/abs/2402.03141](https://arxiv.org/abs/2405.14226v1)) has been accepted to NeurIPS 2024 as a spotlight.
+- Jun. 2024 Our paper ["Bridging Dimensions: Confident Reachability for High-Dimensional Controllers"](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_20) is accepted to FM 2024
+- May. 2024 Our paper ["Boosting long delayed RL with auxiliary short delay"](https://arxiv.org/abs/2402.03141) has been accepted to ICML 2024.
 - Feb. 2024 I officially start my position as Associate Professor at Southampton.
-- Oct. 2023 I am glad to join the [School of Electronics and Computer Science](https://www.southampton.ac.uk/about/faculties-schools-departments/school-of-electronics-and-computer-science) at the University of Southampton, UK from Feb. 2024, as an Associate Professor.
 
 
 Research Projects
