@@ -24,7 +24,7 @@ Recent News
 
 Research Projects
 ======
-- Cross-Layer Uncertainty-Aware Reinforcement Learning for Safe Autonomous Driving, EPSRC ECR International Collaboration Grants (£203k), PI, 07.2024 -- 07.2026.
+- Cross-Layer Uncertainty-Aware Reinforcement Learning for Safe Autonomous Driving, EPSRC ECR International Collaboration Grants (£162k), PI, 07.2024 -- 07.2026.
 
 For Prospective Students
 ======
