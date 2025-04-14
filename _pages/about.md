@@ -13,12 +13,6 @@ I am also an Adjunct Assistant Professor (Honorary Position) in the [Department 
 
 Prior to Southamton, I was a Lecturer (Assistant Professor) in the [Department of Computer Science](https://www.liverpool.ac.uk/computer-science/) at the University of Liverpool, UK. Before joining Liverpool, I worked with [Prof. Qi Zhu](http://zhulab.ece.northwestern.edu/) as a postdoc fellow, in the [Department of Electrical and Computer Engineering](https://www.mccormick.northwestern.edu/electrical-computer/) at Northwestern University. Prior to Northwestern, I received my B.S. and Ph.D. in [Mathematics and Applied Mathematics](https://math.nju.edu.cn/en/index.html) and [Computer Science](https://cs.nju.edu.cn/main.htm) from Nanjing University, China respectively. I also visited the [Department of Computer Science](https://www.cs.aau.dk/) at Aalborg University and was pleased to work with [Prof. Kim G. Larsen](https://kgl.cs.aau.dk/).
 
-Open Positions
-====== 
-We are recruiting a **1-year Postdoc position** in my group at University of Southampton for our project. The ideal candidate is expected to have expertise in **formal methods/reinforcement learning/optimization**. Feel free to share with anyone who may be interested and get in touch with me at chao.huang@soton.ac.uk. You can submit your application via the link to the post: 
-
-[3000825FP Postdoctoal Research Fellow in Safe Reinforcement Learning under Architecture-Layer Uncertainty – Recruitment at the University of Southampton (soton.ac.uk)](https://jobs.soton.ac.uk/Vacancy.aspx?ref=3000825FP).
-
 
 Recent News
 ======
