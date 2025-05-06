@@ -16,7 +16,7 @@ Prior to Southampton, I was a Lecturer (Assistant Professor) in the [Department 
 
 Recent News
 ======
-- May. 2025 Our paper ["Directly Forecasting Belief for Reinforcement Learning with Delays"](https://arxiv.org/pdf/2505.00546) has been accepted to ICML 2025.
+- May. 2025 Our two papers ["Directly Forecasting Belief for Reinforcement Learning with Delays"](https://arxiv.org/pdf/2505.00546) and ["Scaling Value Iteration Networks to 5000 Layers for Extreme Long-Term Planning"](https://arxiv.org/pdf/2406.08404) have been accepted to ICML 2025.
 - Sep. 2024 Our paper ["Variational Delayed Policy Optimization"](https://arxiv.org/abs/2405.14226v1) has been accepted to NeurIPS 2024 as a spotlight.
 - Jun. 2024 Our paper ["Bridging Dimensions: Confident Reachability for High-Dimensional Controllers"](https://link.springer.com/chapter/10.1007/978-3-031-71162-6_20) is accepted to FM 2024
 - May. 2024 Our paper ["Boosting long delayed RL with auxiliary short delay"](https://arxiv.org/abs/2402.03141) has been accepted to ICML 2024.
